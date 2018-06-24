@@ -8,6 +8,7 @@ import java.nio.charset.Charset;
 import java.util.Scanner;
 import java.util.Set;
 
+//参考：https://www.jianshu.com/p/16104564f640
 public class NIOClient {
 
 	// 服务端地址

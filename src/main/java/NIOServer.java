@@ -12,6 +12,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
+//参考：https://www.jianshu.com/p/16104564f640
 public class NIOServer {
 
 	private int port = 8888;
